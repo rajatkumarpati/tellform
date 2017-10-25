@@ -1,4 +1,5 @@
- {
+ @@ -1,10 +1,10 @@
+  {
   	"name": "TellForm",
   	"description": "Beautiful, opensource web forms",
  -	"repository": "https://github.com/whitef0x0/tellform",
